@@ -4,7 +4,6 @@
 
 ## Project Description
 
-- This is a collaborative project, constructed within a span of 5 days during the Construct Week of Block 32 of Masai School, consisting a total of 5 members.
 - The primary objective of this data analysis project is to conduct a thorough examination of vegetable prices in the Noida Vegetable Market and neighboring vegetable markets. 
 - The study aims to uncover patterns in price variations, comprehend the impact of seasonal fluctuations, and ascertain the overall cost of a vegetable basket for diverse income groups. 
 - Furthermore, the project endeavors to scrutinize changes in vegetable basket prices over time and calculate the corresponding inflation rates for each income bracket.
